@@ -39,7 +39,7 @@ def print_scr(screen):
                 print(string)
             string = ''
         string+=screen[i]
-    # print(string)
+    print(string)
 
 
 
